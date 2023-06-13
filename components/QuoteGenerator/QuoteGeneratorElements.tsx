@@ -35,3 +35,22 @@ export const BackgroundImage2 = styled(Image)`
   right: -120px;
   bottom: -10px;
 `;
+
+export const FooterCon = styled.div`
+  width: 100vw; // so it spans the width of the screen as the screen expands and contracts
+  height: 50px;
+  text-align: center;
+  font-family: 15px;
+  position: absolute;
+  bottom: 0;
+  color: white;
+  z-index: 999999;
+`;
+
+export const FooterLink = styled(Link)`
+  color: white;
+`;
+
+export const RedSpan = styled.span`
+  color: red;
+`;
