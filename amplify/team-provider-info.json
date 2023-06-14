@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-inspirationalquotes-dev-83955-authRole",
+      "UnauthRoleArn": "arn:aws:iam::443282425859:role/amplify-inspirationalquotes-dev-83955-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::443282425859:role/amplify-inspirationalquotes-dev-83955-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-inspirationalquotes-dev-83955-deployment",
+      "UnauthRoleName": "amplify-inspirationalquotes-dev-83955-unauthRole",
+      "StackName": "amplify-inspirationalquotes-dev-83955",
+      "StackId": "arn:aws:cloudformation:us-east-1:443282425859:stack/amplify-inspirationalquotes-dev-83955/91610300-0ab0-11ee-a953-0ae3e441fff1",
+      "AmplifyAppId": "dorflh5611czh"
+    }
+  }
+}
